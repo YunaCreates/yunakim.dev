@@ -1,0 +1,30 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Yuna Kim'
+enableEmoji = true
+
+theme = 'gokarna'
+
+[params]
+
+avatarAltText = "avatar"
+avatarSize = "size-m"
+avatarURL = "/yukino.png"
+
+socialIcons = [
+    {name = "github", url = "https://github.com/YunaCreates"},
+]
+
+[menu]
+
+    [[menu.main]]
+        name = "Home"
+        pre = "🏡"
+        url = "/"
+        weight = 1
+
+    [[menu.main]]
+        name = "Posts"
+        pre = "📜"
+        url = "/posts/"
+        weight = 20

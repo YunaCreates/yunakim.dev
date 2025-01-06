@@ -20,7 +20,6 @@ Last update: `December 2024`
 
 ### 📱 Mobile devices
 
-- **Samsung Galaxy S24 Ultra** 1TB Natural titanium
 - **Apple iPhone 15 Plus** 256GB, Blue
 - **Apple iPad Mini 6th** gen 256GB Purple
 - **Apple iPad Pro** 11 inch, 2022

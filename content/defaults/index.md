@@ -8,7 +8,7 @@ Last update: `December 2024`
 
 - 📨 **Mail Client:** Gmail, ProtonMail
 - 📮 **Mail Server:** Gmail, ProtonMail
-- 📝 **Notes:** Apple notes, Samsung Notes
+- 📝 **Notes:** Apple notes
 - ✅ **To-Do:** Reminders
 - 📷 **iPhone Photo Shooting:** Camera
 - 🟦 **Photo Management:** Google Photos
